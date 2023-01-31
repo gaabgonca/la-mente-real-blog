@@ -1,13 +1,13 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/preview/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: 'El estigma de las enfermedades mentales'
+excerpt: 'El principal problema que tienen que enfrentar las personas afectadas por trastornos mentales es el estigma social. El temor al rechazo social hace que la persona se niegue a reconocer su padecimiento y a buscar tratamiento. Así mismo, restringe su interacción familiar y social y su participación académica y laboral. La discriminación es el alto precio que deben pagar quienes sufren una enfermedad mental. Este hecho complica el padecimiento y lesiona el disfrute y la calidad de vida del paciente.'
+coverImage: '/assets/blog/estigma/cover.jpg'
+date: '2022-10-02T05:35:07.322Z'
 author:
-  name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: Alex González Grau
+  picture: '/assets/blog/authors/alex.png'
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/estigma/cover.jpg'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
