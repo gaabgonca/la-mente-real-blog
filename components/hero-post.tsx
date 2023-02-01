@@ -25,7 +25,7 @@ const HeroPost = ({
     <section>
       <div className='lg:grid lg:grid-cols-2 lg:gap-x-16 lg:-gap-x-8 items-center'>
       <div className="mb-8 md:mb-16">
-        <CoverImage title={title} src={coverImage} slug={slug} />
+        <CoverImage title={title} src={coverImage} slug={slug} hero />
       </div>
       <div className="md:flex md:flex-col  md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
         <div className='mb-8'>

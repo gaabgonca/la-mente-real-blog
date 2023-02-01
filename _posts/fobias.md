@@ -26,9 +26,9 @@ Tenemos las fobias medioambientales, que son las que se presentan ante elementos
 
 Tenemos las fobias animales, que se dan ante animales pequeños, que normalmente no deben representar un peligro. Por ejemplo: un pequeño grillo, un escarabajo, una lombriz, un gusano; son suficientes para que una persona entre en pánico, y huya. 
 
-Y tenemos por último, las fobias tipo sangre, inyección, daño. Que como su nombre lo indica, se presentan cuando la persona está ante una herida, ve sangre o está expuesta a una aguja hipodérmica. Por ejemplo, le van a sacar sangre o le van a aplicar una inyección. 
+Y tenemos por último, las fobias tipo sangre-inyección-daño. Que como su nombre lo indica, se presentan cuando la persona está ante una herida, ve sangre o está expuesta a una aguja hipodérmica. Por ejemplo, le van a sacar sangre o le van a aplicar una inyección. 
 
-Así que, resumiendo, tenemos dentro de las fobias específicas: la fobia situacional, la fobia mediambiental, la fobia animal y la fobia tipo sangre, inyección, daño. Estas fobias afectan al 11% de la población.
+Así que, resumiendo, tenemos dentro de las fobias específicas: la fobia situacional, la fobia mediambiental, la fobia animal y la fobia tipo sangre-inyección-daño. Estas fobias afectan al 11% de la población.
 
 A continuación, podemos mencionar la fobia social, que se refiere a que la persona experimenta un intenso temor cuando tiene que enfrentarse a un público. Puede ser porque va a hablar ante el público, va a comer en un restaurante, va a interactuar de cualquier manera. Entonces, la persona siente que la están escudriñando, que la gente está pendiente de cualquier error que pueda cometer, que la gente lo está analizando constantemente. La persona tiene miedo a equivocarse, a que las cosas no le salgan bien. 
 
