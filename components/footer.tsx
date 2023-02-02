@@ -1,7 +1,10 @@
+import { useContext } from 'react'
 import Container from './container'
 import { EXAMPLE_PATH, FULL_NAME } from '../lib/constants'
+import { OpenFormContext } from '../contexts/contact-form-context'
 
 const Footer = () => {
+  const {open, setOpen} = useContext(OpenFormContext)
   return (
     <footer className="bg-neutral-50 border-t border-neutral-200">
       <Container>
@@ -16,7 +19,7 @@ const Footer = () => {
           </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2 lg:justify-end">
             <a
-              href="https://wa.me/573106374188"
+              onClick={() => setOpen(true)}
               className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-4 lg:mb-0"
             >
               Cóntactame

@@ -1,6 +1,6 @@
 import PostPreview from './post-preview'
 import type Post from '../interfaces/post'
-import { MouseEventHandler, useState } from 'react'
+import { useState } from 'react'
 
 type Props = {
   posts: Post[]
