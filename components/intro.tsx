@@ -7,7 +7,7 @@ const Intro = () => {
         La mente real
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Blog del especialista en salud mental&nbsp;<strong>{FULL_NAME}</strong>
+        Blog del especialista en salud mental&nbsp;<br className='md:hidden'/><strong>{FULL_NAME}</strong>
       </h4>
     </section>
   )
