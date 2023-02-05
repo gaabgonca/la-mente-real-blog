@@ -22,10 +22,7 @@ export default function Index({ allPosts }: Props) {
       <Layout>
         <Head>
           <title>{BLOG_TITLE}</title>
-          <meta property="og:image" content={createOgImage()} />
-                <meta property="og:title" content={BLOG_TITLE} />
-                <meta property="og:description" content={OG_DESCRIPTION} />
-                <meta property="og:url" content={PRODUCTION_URL} />
+          
         </Head>
         <Container>
           <Intro />
