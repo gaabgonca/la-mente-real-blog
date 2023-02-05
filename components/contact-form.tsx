@@ -30,7 +30,9 @@ const emptyForm: FormState = {
 };
 
 const defaultInputStyle =
-  "border border-solid border-2 rounded focus:rounded p-2 w-full text-xl";
+  "border border-solid border-2 rounded focus:rounded p-2 w-full text-lg md:text-xl";
+
+const labelStyle = "font-bold text-md md:text-xl"
 
 export default function ContactForm() {
   let { open, setOpen } = useContext(OpenFormContext);
@@ -159,27 +161,26 @@ export default function ContactForm() {
       open={open}
       onClose={() => {
         setOpen(false);
-        setFormState(emptyForm);
       }}
     >
       <div className="w-full h-full fixed top-0 left-0 z-10 bg-black/50 "></div>
       <div className="w-full h-full fixed top-0 left-0 z-10 flex items-center justify-center content-center">
         <Dialog.Panel className="bg-white w-5/6 h-auto md:w-2/6  p-6 md:px-8 md:py-12 shadow-xl">
-          <Dialog.Title className="text-2xl font-bold mb-8">
+          <Dialog.Title className="text-lg md:text-2xl font-bold mb-2 md:mb-8">
             Deja aquí tu consulta
           </Dialog.Title>
-          <Dialog.Description className="text-xl font-medium">
+          <Dialog.Description className="text-md md:text-xl font-medium">
             Da el primer paso hacia una mejor salud mental. Si tienes alguna
             inquietud o necesitas ayuda, no dudes en dejar un mensaje. Recuerda
             que tu privacidad y confidencialidad están garantizadas.
           </Dialog.Description>
 
           <form
-            className="w-full h-auto flex flex-col items-start justify-center pt-4"
+            className="w-full h-auto flex flex-col items-start justify-center pt-0 md:pt-4"
             accept-charset="UTF-8"
             onSubmit={handleSubmit}
           >
-            <label className="font-bold text-xl" htmlFor="name">
+            <label className={labelStyle} htmlFor="name">
               Nombre
             </label>
             <input
@@ -192,7 +193,7 @@ export default function ContactForm() {
             />
             {nameError}
 
-            <label className="font-bold text-xl" htmlFor="email">
+            <label className={labelStyle} htmlFor="email">
               Email
             </label>
             <input
@@ -209,7 +210,7 @@ export default function ContactForm() {
             />
             {emailError}
 
-            <label className="font-bold text-xl" htmlFor="message">
+            <label className={labelStyle} htmlFor="message">
               Consulta
             </label>
             <textarea
@@ -229,13 +230,13 @@ export default function ContactForm() {
               onClick={() => {
                 setOpen(false)
               }}
-              className="mx-3 font-bold hover:underline text-xl"
+              className="mx-3 font-bold hover:underline text-md md:text-xl"
             >
               Cancelar
             </a>
             <button
               type="submit"
-              className="  bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors text-xl"
+              className="  bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors text-md md:text-xl"
             >
               Enviar
             </button>

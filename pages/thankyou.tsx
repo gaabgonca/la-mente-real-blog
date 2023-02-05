@@ -25,9 +25,9 @@ export default function ThankYou() {
             <Intro/>
             
                 <div className='w-full h-full flex flex-col align-center items-center justify-center'>
-                    <h1 className='text-6xl  font-black  mb-2'>{thankYouMessage}</h1>
-                    <h3 className='text-3xl mt-4'>Recuerda que eres importante </h3>
-                    <h3 className="text-2xl md:text-3xl mt-2">Responderé tu consulta tan pronto como pueda</h3>
+                    <h1 className='text-3xl md:text-6xl  font-black  mb-2'>{thankYouMessage}</h1>
+                    <h3 className='text-xl md:text-3xl mt-4'>Recuerda que eres importante </h3>
+                    <h3 className="text-xl md:text-2xl md:text-3xl mt-2">Responderé tu consulta tan pronto como pueda</h3>
                     <p className='text-2xl italic mt-8 md:mt-16'>Si quieres seguir leyendo, puedes</p>
                     <Link href={"/"} className="mt-4">
                         <p 
