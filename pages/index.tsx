@@ -5,8 +5,10 @@ import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
-import { BLOG_TITLE } from '../lib/constants'
+import { BLOG_TITLE, OG_DESCRIPTION, PRODUCTION_URL } from '../lib/constants'
+import createOgImage from '../lib/createOgImage'
 import Post from '../interfaces/post'
+
 
 type Props = {
   allPosts: Post[]
@@ -20,6 +22,10 @@ export default function Index({ allPosts }: Props) {
       <Layout>
         <Head>
           <title>{BLOG_TITLE}</title>
+          <meta property="og:image" content={createOgImage()} />
+                <meta property="og:title" content={BLOG_TITLE} />
+                <meta property="og:description" content={OG_DESCRIPTION} />
+                <meta property="og:url" content={PRODUCTION_URL} />
         </Head>
         <Container>
           <Intro />

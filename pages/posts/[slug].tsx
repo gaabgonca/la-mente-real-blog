@@ -8,7 +8,7 @@ import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import Head from 'next/head'
-import { CMS_NAME } from '../../lib/constants'
+import { CMS_NAME, PRODUCTION_URL } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 import type PostType from '../../interfaces/post'
 
@@ -37,6 +37,10 @@ export default function Post({ post, morePosts, preview }: Props) {
                   {post.title}
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
+                <meta property="og:title" content={post.title} />
+                <meta property="og:description" content={post.excerpt} />
+                <meta property="og:url" content={PRODUCTION_URL + "/" + post.slug} />
+                
               </Head>
               <PostHeader
                 title={post.title}
