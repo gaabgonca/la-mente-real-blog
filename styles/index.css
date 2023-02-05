@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 .markdown-container ul{
-    @apply list-disc list-inside !important;
+    @apply list-disc list-outside !important;
 }
   
