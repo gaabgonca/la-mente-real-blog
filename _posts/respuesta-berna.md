@@ -1,6 +1,6 @@
 ---
 title: 'Respuesta a Berna'
-excerpt: 'Berna hace la siguiente consulta: «¿El Xanax(Alprazolam) sirve para tratar la ansiedad? Actualmente estoy siendo tratado con fluvoxamina, pero mi ansiedad no ha mejorado del todo»'
+excerpt: 'Berna hace la siguiente consulta: «¿El Xanax (alprazolam) sirve para tratar la ansiedad? Actualmente estoy siendo tratado con fluvoxamina, pero mi ansiedad no ha mejorado del todo»'
 coverImage: '/assets/blog/respuesta-berna/cover.jpg'
 date: '2014-06-16T05:35:07.322Z'
 author:
@@ -12,7 +12,7 @@ ogImage:
 
 Berna hace la siguiente consulta:
 
->¿El Xanax(Alprazolam) sirve para tratar la ansiedad? Actualmente estoy siendo tratado con fluvoxamina, pero mi ansiedad no ha mejorado del todo.
+>¿El Xanax (alprazolam) sirve para tratar la ansiedad? Actualmente estoy siendo tratado con fluvoxamina, pero mi ansiedad no ha mejorado del todo.
 
 En principio, el alprazolam (Tafil entre otros nombres) es una benzodiazepina bastante eficaz para el tratamiento de la ansiedad. Sin embargo, suele requerir prescripción médica. También debe tenerse en cuenta que todo medicamento tiene contraindicaciones y precauciones para su uso. En el caso de las benzodiazepinas estas precauciones incluyen, entre otras, no prescribirlas durante un tiempo prolongado, ni hacerlo a personas con potencial de desarrollar dependencia; por ejemplo, individuos afectados por ciertos rasgos de personalidad; aquellos aquejados por trastornos somatomorfos (somatización, hipocondría, etc.); y quienes son dependientes a sustancias (alcohol, tabaco, cannabis, etc), entre otros.
 
