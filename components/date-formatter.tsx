@@ -9,7 +9,7 @@ const DateFormatter = ({ dateString }: Props) => {
   const date = parseISO(dateString)
   const rawDateStr = format(date, 'LLLL	d, yyyy', {locale: es})
   const capitalized = rawDateStr.charAt(0).toUpperCase() + rawDateStr.slice(1)
-  return <time dateTime={dateString}>{capitalized}</time>
+  return <time dateTime={dateString} className="text-2xl">{capitalized}</time>
 }
 
 export default DateFormatter

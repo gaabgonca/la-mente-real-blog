@@ -6,6 +6,7 @@
 .markdown ol,
 .markdown blockquote {
   @apply my-6;
+  @apply text-2xl
 }
 
 

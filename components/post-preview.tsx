@@ -3,6 +3,7 @@ import DateFormatter from './date-formatter'
 import CoverImage from './cover-image'
 import Link from 'next/link'
 import type Author from '../interfaces/author'
+import ReadMore from './read-more'
 
 type Props = {
   title: string
@@ -38,7 +39,10 @@ const PostPreview = ({
       <div className="text-lg mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      <p className="text-lg leading-relaxed mb-2">{excerpt + " [...]"}</p>
+      <div className='flex flex-row justify-start w-full mb-2'>
+      <ReadMore slug={slug}/>
+      </div>
       <Avatar name={author.name} picture={author.picture} />
     </div>
   )

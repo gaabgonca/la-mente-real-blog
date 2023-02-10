@@ -1,8 +1,8 @@
 ---
 title: '¿Sabes qué son las alucinaciones?'
-excerpt: 'Las alucinaciones son respuestas perceptuales sin estìmulos sensoriales,  que comprometen el juicio de realidad.
+excerpt: 'Las alucinaciones son respuestas perceptuales sin estìmulos sensoriales, que comprometen el juicio de realidad.
 En otras palabras, son percepciones sin sensaciones.
-El cerebro veo, oye, degusta, huele o siente información que no le ha llegado desde los órganos sensoriales'
+El cerebro veo, oye, degusta, huele o siente información que no le ha llegado desde los órganos sensoriales.'
 coverImage: '/assets/blog/alucinaciones/cover.jpg'
 date: '2022-09-15T05:35:07.322Z'
 author:

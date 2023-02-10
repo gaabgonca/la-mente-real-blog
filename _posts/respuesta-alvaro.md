@@ -1,6 +1,6 @@
 ---
 title: 'Respuesta a Álvaro'
-excerpt: 'Álvaro hace la siguiente consulta: «Tengo un sentimiento de tristeza y ansiedad que se genera por pensamientos que se repiten en mi mente. ¿Es posible reeducar la mente y interpretar las malas esperiencias de otra manera y no terminar así?»'
+excerpt: 'Álvaro hace la siguiente consulta: «Tengo un sentimiento de tristeza y ansiedad que se genera por pensamientos que se repiten en mi mente. ¿Es posible reeducar la mente y interpretar las malas experiencias de otra manera y no terminar así?»'
 coverImage: '/assets/blog/respuesta-alvaro/cover.jpg'
 date: '2014-12-26T05:35:07.322Z'
 author:
@@ -12,7 +12,7 @@ ogImage:
 
 Álvaro hace la siguiente consulta:
 
->Tengo un sentimiento de tristeza y ansiedad que se genera por pensamientos que se repiten en mi mente. ¿Es posible reeducar la mente y interpretar las malas esperiencias de otra manera y no terminar así?
+>Tengo un sentimiento de tristeza y ansiedad que se genera por pensamientos que se repiten en mi mente. ¿Es posible reeducar la mente y interpretar las malas experiencias de otra manera y no terminar así?
 
 En principio, permíteme, Álvaro, agradecer por tu participación en este blog.
 

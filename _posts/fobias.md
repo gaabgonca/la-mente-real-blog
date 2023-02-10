@@ -1,6 +1,6 @@
 ---
 title: '¿Sabes si padeces una fobia?'
-excerpt: 'Las fobias son miedos irracionales que afectan a un buen porcentaje de la población. Las fobias específicas se dividen en fobias situacionales, medioambientales, animales y sange-inyección-daño. Además, existen la fobia social y la agorafobia. Las fobias pueden llegar a ser incapacitantes. Las personas afectadas no consultan por vergûenza o porque no saben que existen tratamientos.'
+excerpt: 'Las fobias son miedos irracionales que afectan a un buen porcentaje de la población. Las fobias específicas se dividen en fobias situacionales, medioambientales, animales y sange-inyección-daño. Además, existen la fobia social y la agorafobia. Las fobias pueden llegar a ser incapacitantes. Las personas afectadas no consultan por vergüenza o porque no saben que existen tratamientos.'
 coverImage: '/assets/blog/fobias/cover.jpg'
 date: '2023-01-07T05:35:07.322Z'
 author:
