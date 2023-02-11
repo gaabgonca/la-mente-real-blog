@@ -11,6 +11,7 @@ import Head from 'next/head'
 import { CMS_NAME, PRODUCTION_URL } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 import type PostType from '../../interfaces/post'
+import ContactMe from '../../components/contact-me'
 
 type Props = {
   post: PostType
@@ -49,6 +50,7 @@ export default function Post({ post, morePosts, preview }: Props) {
                 author={post.author}
               />
               <PostBody content={post.content} />
+              {post.contact && (<ContactMe intro= {post.contact}/>)}
             </article>
           </>
         )}
@@ -72,6 +74,7 @@ export async function getStaticProps({ params }: Params) {
     'content',
     'ogImage',
     'coverImage',
+    'contact'
   ])
   const content = await markdownToHtml(post.content || '')
 

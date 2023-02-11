@@ -8,6 +8,7 @@ author:
   picture: '/assets/blog/authors/alex.png'
 ogImage:
   url: '/assets/blog/fobias/cover.jpg'
+contact: 'Si sientes que padeces una fobia o conoces a alguien que padezca una fobia, '
 ---
 
 Quiero que hablemos acerca de un tema muy común, es algo que todos hemos oído mencionar y seguramente conocemos a alguien que lo padece. Se trata de las fobias. 
@@ -37,7 +38,3 @@ La fobia social es importante porque es incapacitante y la persona termina rehuy
 Y por último, debemos mencionar la agorafobia, que es el temor a estar en lugares en los que la huida o el escape puede ser difícil o embarazoso en caso de que nos encontremos padeciendo un ataque de pánico, un infarto, una diarrea, o cualquier otro tipo de situación. Entonces, estas personas evitan los sitios congestionados, como pueden ser el transporte público y los estadios, entre otros. 
 
 La mala noticia, es que la mayoría de las personas que tienen fobia no consultan. Y no consultan por dos motivos: el primero, porque les da vergüenza; y el segundo, porque no saben que esto tiene cura. En efecto, las fobias tienen tratamiento y tienen muy buen pronóstico . Una persona con una fobia que reciba un tratamiento conductual va a mejorar en la gran mayoría de los casos. Es un trabajo que se hace con base en tareas que le asigna el terapeuta. O sea, que ni siquiera debe ir frecuentemente a consulta, ni son tratamientos muy largos. En cuestión de meses, o semanas, una fobia puede verse corregida. 
-
-
-
-Si sientes que padeces una fobia o conoces a alguien que padezca una fobia, no dudes en consultarme. Juntos encontraremos una solución a este problema. 
