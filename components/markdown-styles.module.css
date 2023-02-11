@@ -4,6 +4,7 @@
 
 .markdown p,
 .markdown ol,
+.markdwon li,
 .markdown blockquote {
   @apply my-6;
   @apply text-2xl
