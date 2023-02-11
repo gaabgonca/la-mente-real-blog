@@ -12,6 +12,6 @@
 
 li::marker {
     display: inline !important;
-    vertical-align: middle;
+    vertical-align: middle !important;
 }
   

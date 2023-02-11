@@ -34,4 +34,9 @@
   @apply ml-4;
 }
 
+.markdown li::after {
+  display: inline !important;
+  verticalAlign: middle !important;
+}
+
 
