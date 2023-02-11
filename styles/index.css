@@ -9,4 +9,9 @@
 .markdown-container li {
     @apply text-2xl !important;
 }
+
+li::marker {
+    display: inline !important;
+    vertical-align: middle;
+}
   
