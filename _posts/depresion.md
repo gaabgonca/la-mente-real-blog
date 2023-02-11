@@ -25,11 +25,17 @@ También es importante hablar de la depresión por el gran número de casos que 
 Existen muchos tipos de depresión: 
 
 * El trastorno depresivo mayor
+
 * La distimia 
+
 * La disforia premenstrual
+
 * El trastorno depresivo menor
+
 * El trastorno depresivo breve recurrente
+
 * Las depresiones inducidas por sustancias como el alcohol o por medicamentos
+
 * Las depresiones debidas a otras enfermedades como las alteraciones del tiroides, la esclerosis múltiple y la epilepsia, entre muchos otros padecimientos. 
 
 Las últimas son particularmente ciertas en los ancianos, en quienes, en caso de estar deprimidos, debemos buscar el origen en posibles enfermedades (cardiopatías, alteraciones del riesgo sanguíneo cerebral) o en los medicamentos que estén tomando.

@@ -41,10 +41,15 @@ En fin, existen muchas clases de ideas delirantes; las mencionadas son apenas un
 Las ideas delirantes hacen parte de los síntomas psicóticos por excelencia, junto con las alucinaciones. Por tanto, donde más frecuentemente vamos a encontrarlas es en los trastornos psicóticos como:
 
 * La esquizofrenia
+
 * El trastorno psicótico breve 
+
 * El trastorno esquizofreniforme
+
 * El trastorno esquizoafectivo 
+
 * El trastorno psicótico inducido por sustancias 
+
 * El trastorno psicótico debido a otra afección médica. 
 
 Sin embargo, también encontraremos ideas delirantes en los trastornos del estado de ánimo cuando son muy graves, así como en las demencias y en los síndromes confusionales.

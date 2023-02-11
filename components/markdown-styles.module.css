@@ -29,14 +29,6 @@
   @apply px-4;
 }
 
-.markdown ul, {
-  @apply list-inside list-disc !important;
-  @apply ml-4;
-}
 
-.markdown li::after {
-  display: inline !important;
-  verticalAlign: middle !important;
-}
 
 
