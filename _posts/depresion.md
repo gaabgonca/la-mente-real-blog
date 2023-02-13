@@ -22,7 +22,7 @@ También es importante hablar de la depresión por el gran número de casos que 
 
 ## Tipos de depresión
 
-Existen muchos tipos de depresión, entre otros tenemos: 
+Existen muchos tipos de depresión. Entre otros tenemos: 
 
 * El trastorno depresivo mayor
 
@@ -76,7 +76,7 @@ Una persona deprimida puede sufrir muchos otros síntomas. La angustia se manifi
 
 * Hablamos de depresiones enmascaradas cuando **existen tantos síntomas físicos que no dejan apreciar las alteraciones psicológicas y emocionales**. Las personas con depresiones enmascaradas terminan yendo de un médico a otro sin que se encuentre la causa de sus males. Generalmente las personas afectadas por este tipo de depresión consultan por dolores en de cuello, cabeza, espalda o de todo el cuerpo (incluyendo la fibromialgia); afecciones de la piel como las neurodermatitis; problemas gastrointestinales como el reflujo gastroesofágico, la gastritis y el colon irritable; infecciones frecuentes; agotamiento extremo, etc.
 
-## Tratamiento de la derpesión
+## Tratamiento de la depresión
 
 Hablemos ahora un poco acerca del tratamiento de la depresión. Éste se basa en tres pilares fundamentales: 
 
