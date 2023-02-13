@@ -22,7 +22,7 @@ También es importante hablar de la depresión por el gran número de casos que 
 
 ## Tipos de depresión
 
-Existen muchos tipos de depresión: 
+Existen muchos tipos de depresión, entre otros tenemos: 
 
 * El trastorno depresivo mayor
 
@@ -46,7 +46,7 @@ Al existir muchas clases de depresión, el término se reduce a un síndrome. La
 
 Si contamos la cantidad de personas que en un momento de su vida padecerán al menos un episodio depresivo, el número sobrepasa el 25 % de la población. Debe anotarse que muchas personas con síntomas depresivos también tienen síntomas de ansiedad, de trastorno obsesivo compulsivo o de trastorno por estrés postraumático. Pueden existir varios trastornos en una sola persona.
 
-Como se ve, el problema de la depresión es de una gran magnitud. Muchas personas deprimidas pueden estar al nuestro lado sin que lo notemos. Están trabajando o estudiando porque les toca hacerlo, pero no porque lo hagan con verdadero placer o porque sientan motivación. Sencillamente están deprimidas y no lo saben. O creen que sentirse mal o desmotivado está en su forma de ser. Muchas veces piensan que la situación que viven va a mejorar por sí misma o mediante la simple voluntad. 
+Como se ve, el problema de la depresión es de una gran magnitud. Muchas personas deprimidas pueden estar a nuestro lado sin que lo notemos. Están trabajando o estudiando porque les toca hacerlo, pero no porque lo hagan con verdadero placer o porque sientan motivación. Sencillamente están deprimidas y no lo saben. O creen que sentirse mal o desmotivado está en su forma de ser. Muchas veces piensan que la situación que viven va a mejorar por sí misma o mediante la simple voluntad. 
 
 ## Síntomas de la depresión
 
