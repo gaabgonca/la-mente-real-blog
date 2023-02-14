@@ -17,7 +17,7 @@ De los archivos de _Pregúntale al psiquiatra:_
 
 Una lectora hizo la siguiente consulta:
 
-> «La procrastinación se dice que es la epidemia de nuestros días. ¿Quien la sufre necesita asistencia permanente del especialista, o, existen posibilidades de que una vez tratado no la vuelva a padecer?»
+> La procrastinación se dice que es la epidemia de nuestros días. ¿Quien la sufre necesita asistencia permanente del especialista, o, existen posibilidades de que una vez tratado no la vuelva a padecer?
 
 Este interrogante me recuerda un concepto que alguna vez le escuché a un amigo. Según él, la pereza no existe, sino que existen cosas que a uno no le gusta hacer.
 
