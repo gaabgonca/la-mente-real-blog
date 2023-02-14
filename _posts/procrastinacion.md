@@ -1,6 +1,6 @@
 ---
 title: 'Sobre la procrastinación'
-excerpt: 'De los archivos: manuelita, con minúsculas, como a ella le gusta escribir su nombre, ha intervenido en el foro con la siguiente pregunta:
+excerpt: 'De los archivos: Una lectora consulta:
 «La procrastinación se dice que es la epidemia de nuestros días. ¿Quien la sufre necesita asistencia permanente del especialista, o, existen posibilidades de que una vez tratado no la vuelva a padecer?»'
 coverImage: '/assets/blog/procrastinacion/cover.jpg'
 date: '2023-02-14T05:35:07.322Z'
@@ -15,7 +15,7 @@ _Fecha original de publicación: Octubre 27, 2009_
 
 De los archivos de _Pregúntale al psiquiatra:_ 
 
-manuelita, con minúsculas, como a ella le gusta escribir su nombre, ha intervenido en el foro con la siguiente pregunta:
+Una lectora hizo la siguiente consulta:
 
 > «La procrastinación se dice que es la epidemia de nuestros días. ¿Quien la sufre necesita asistencia permanente del especialista, o, existen posibilidades de que una vez tratado no la vuelva a padecer?»
 
