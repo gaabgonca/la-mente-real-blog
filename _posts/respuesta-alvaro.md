@@ -8,6 +8,7 @@ author:
   picture: '/assets/blog/authors/alex.png'
 ogImage:
   url: '/assets/blog/respuesta-alvaro/cover.jpg'
+contact: 'Si necesitas ayuda para manejar una situación similar a la de Álvaro, '
 ---
 
 Álvaro hace la siguiente consulta:
@@ -35,5 +36,3 @@ El pronóstico es variable. La mayoría de los individuos presentan un curso cr�
 Como se ha dicho, esta entidad es muy frecuente. Un objetivo realista consiste en restar importancia a lo síntomas y minimizar sus consecuencias sobre la vida del afectado. De hecho, cualquier persona puede presentar en algún momento de su vida este tipo de síntomas. Lo que en últimas diferenciará al individuo afectado de un TOC de una persona que presente estos síntomas dentro de la normalidad relativa suele ser, precisamente, la importancia que se les de a los hallazgos clínicos, el tiempo que ocupen, el malestar que ocasionen y las repercusiones sobre el funcionamiento cotidiano.
 
 Por último, debe aclararse, por supuesto, que esta explicación no pretende reemplazar una consulta psiquiátrica formal. Después de esta orientación, la recomendación es, por supuesto, consultar al médico o al psicólogo de confianza.
-
->*Si estás pasando por una situación similar y necesitas ayuda [**puedes contactarme**](https://wa.me/573106374188)*
