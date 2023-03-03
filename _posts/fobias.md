@@ -5,7 +5,7 @@ coverImage: '/assets/blog/fobias/cover.jpg'
 date: '2023-01-07T05:35:07.322Z'
 author:
   name: Alex González Grau
-  picture: '/assets/blog/authors/alex.png'
+  picture: '/assets/blog/authors/alex.jpg'
 ogImage:
   url: '/assets/blog/fobias/cover.jpg'
 contact: 'Si sientes que padeces una fobia o conoces a alguien que padezca una fobia, '

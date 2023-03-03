@@ -6,7 +6,7 @@ coverImage: '/assets/blog/procrastinacion/cover.jpg'
 date: '2023-02-14T05:35:07.322Z'
 author:
   name: Alex González Grau
-  picture: '/assets/blog/authors/alex.png'
+  picture: '/assets/blog/authors/alex.jpg'
 ogImage:
   url: '/assets/blog/procrastinacion/cover.jpg'
 ---

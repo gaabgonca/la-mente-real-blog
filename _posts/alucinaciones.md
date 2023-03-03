@@ -7,7 +7,7 @@ coverImage: '/assets/blog/alucinaciones/cover.jpg'
 date: '2022-09-15T05:35:07.322Z'
 author:
   name: Alex González Grau
-  picture: '/assets/blog/authors/alex.png'
+  picture: '/assets/blog/authors/alex.jpg'
 ogImage:
   url: '/assets/blog/alucinaciones/cover.jpg'
 ---

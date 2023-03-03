@@ -5,7 +5,7 @@ coverImage: '/assets/blog/secuestro/cover.jpg'
 date: '2014-04-30T05:35:07.322Z'
 author:
   name: Alex González Grau
-  picture: '/assets/blog/authors/alex.png'
+  picture: '/assets/blog/authors/alex.jpg'
 ogImage:
   url: '/assets/blog/secuestro/cover.jpg'
 ---

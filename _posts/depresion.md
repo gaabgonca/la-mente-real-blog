@@ -6,7 +6,7 @@ coverImage: '/assets/blog/depresion/cover.jpg'
 date: '2023-02-11T05:35:07.322Z'
 author:
   name: Alex González Grau
-  picture: '/assets/blog/authors/alex.png'
+  picture: '/assets/blog/authors/alex.jpg'
 ogImage:
   url: '/assets/blog/depresion/cover.jpg'
 contact: 'Si estás pasando por una depresión o conoces a alguien que necesite ayuda, '

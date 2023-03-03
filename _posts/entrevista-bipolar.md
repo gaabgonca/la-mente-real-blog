@@ -5,7 +5,7 @@ coverImage: '/assets/blog/entrevista-bipolar/cover.jpg'
 date: '2013-09-30T05:35:07.322Z'
 author:
   name: Alex González Grau
-  picture: '/assets/blog/authors/alex.png'
+  picture: '/assets/blog/authors/alex.jpg'
 ogImage:
   url: '/assets/blog/entrevista-bipolar/cover.jpg'
 ---

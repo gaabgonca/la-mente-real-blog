@@ -5,7 +5,7 @@ coverImage: '/assets/blog/estigma/cover.jpg'
 date: '2022-10-09T05:35:07.322Z'
 author:
   name: Alex González Grau
-  picture: '/assets/blog/authors/alex.png'
+  picture: '/assets/blog/authors/alex.jpg'
 ogImage:
   url: '/assets/blog/estigma/cover.jpg'
 ---

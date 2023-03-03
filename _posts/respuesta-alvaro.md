@@ -5,7 +5,7 @@ coverImage: '/assets/blog/respuesta-alvaro/cover.jpg'
 date: '2014-12-26T05:35:07.322Z'
 author:
   name: Alex González Grau
-  picture: '/assets/blog/authors/alex.png'
+  picture: '/assets/blog/authors/alex.jpg'
 ogImage:
   url: '/assets/blog/respuesta-alvaro/cover.jpg'
 contact: 'Si necesitas ayuda para manejar una situación similar a la de Álvaro, '

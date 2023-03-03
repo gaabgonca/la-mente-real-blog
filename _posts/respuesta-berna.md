@@ -5,7 +5,7 @@ coverImage: '/assets/blog/respuesta-berna/cover.jpg'
 date: '2014-06-16T05:35:07.322Z'
 author:
   name: Alex González Grau
-  picture: '/assets/blog/authors/alex.png'
+  picture: '/assets/blog/authors/alex.jpg'
 ogImage:
   url: '/assets/blog/respuesta-berna/cover.jpg'
 ---
