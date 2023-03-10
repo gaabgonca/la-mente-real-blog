@@ -38,12 +38,6 @@ Dentro de los síntomas que caracterizan el trastorno límite de la personalidad
 
 * Quienes padecen trastorno limítrofe de la personalidad __no manejan bien el estrés.__ Por tanto, con frecuencia __se disocian.__ Esto quiere decir que hay una desconexión entre las funciones que normalmente están bajo control consciente, como el pensamiento, el lenguaje, la memoria y la conducta motora. Puede que realicen cosas que no recuerden o que actúen de manera automática. También pueden exhibir comportamientos regresivos. Debe mencionarse que, también ante el estrés, pueden presentar ideas de perjuicio o de persecución o creer que los demás hablan mal de ellos.
 
->*¿Qué trastornos psicológicos pueden a llegar padecer los familiares de un secuestrado? ¿Hasta qué punto pueden ser peligrosos para la salud emocional de estas personas?*
-
-En los familiares de los secuestrados pueden presentarse prácticamente los mismos síntomas que en las víctimas. Destacan el estrés agudo y el estrés postraumático y otros trastornos de ansiedad, y el trastorno depresivo mayor. Otros familiares probablemente no desarrollarán criterios completos para uno de los trastornos mencionados, mas sufrirán por lo menos trastornos adaptativos. Las adicciones pueden presentarse con relativa facilidad.
-
-De todas maneras, la vida de los familiares de los secuestrados suele estar plagada de incertidumbre y miedo, lo que se traduce en una situación estrés de estrés prolongado y severo.
-
 >*¿Cuándo se dice que puede haber un diagnóstico?*
 
 En general, el diagnóstico de un trastorno de la personalidad se hace cuando los estilos de afrontamiento de la persona (es decir, la manera en que enfrentan los conflictos) y sus rasgos de personalidad (la manera en que interactúan consigo mismos o con los demás) son rígidos, inflexibles e inadaptados.
