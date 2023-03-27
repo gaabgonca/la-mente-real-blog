@@ -13,6 +13,8 @@ contact: 'Si conoces a alguién en riesgo de suicidio, '
 
 A continuación, resolveremos algunas preguntas sobre el suicidio. El objetivo es que sepamos como identificar y ayudar a un potencial suicida.
 
+>*Si quieres conocer sobre este tema viendo un video, [**aquí puedes encontrarlo**](https://www.youtube.com/watch?v=XGyQ3muTig4)*
+
 ## ¿Qué debo hacer si alguien me comenta que desea suicidarse?
 
 Lo primero que hay que hacer es tomárselo en serio. Hay personas que tienen el prejuicio consistente en que aquella que se va a suicidar no avisa, no lo dice; por lo tanto, no le prestan atención a quien lo anuncia. La realidad es otra. La gran mayoría de personas que se han suicidado lo han avisado mediante palabras. 
