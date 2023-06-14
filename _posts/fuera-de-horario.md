@@ -21,8 +21,7 @@ El hábito de enviar correos electrónicos y mensajes o llamar por fuera del hor
 Enviar mensajes o correos electrónicos por fuera del horario laboral significa estresar innecesariamente a los colaboradores.
 Desafortunadamente son muchas las ocasiones en que se recibe un correo o un mensaje a las nueve de la noche, a las cuatro de la madrugada o un domingo por la tarde.
 
-Rara vez estos mensajes o correos tienen información urgente o inaplazable. De hecho, tampoco suelen importante. 
-Una ley francesa que entró en vigor en 2017 prohíbe a las empresas contactar a sus empleados por fuera del horario laboral.
+Rara vez estos mensajes o correos tienen información urgente o inaplazable. De hecho, tampoco suelen ser importantes. Una ley francesa que entró en vigor en 2017 prohíbe a las empresas contactar a sus empleados por fuera del horario laboral.
 El pernicioso hábito de enviar mensajes y correos electrónicos por fuera del horario laboral es una manera muy eficiente de quemar a quienes trabajan con nosotros.
 
 Hay quienes terminan padeciendo un síndrome de burnout (desgaste profesional)
