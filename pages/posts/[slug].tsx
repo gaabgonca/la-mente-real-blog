@@ -1,3 +1,4 @@
+
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Container from '../../components/container'
@@ -28,7 +29,6 @@ export default function Post({ post, morePosts, preview }: Props) {
   }
   return (
     <Layout preview={preview}>
-      <ThemeButton />
       <Container>
         <Header />
         {router.isFallback ? (
@@ -54,7 +54,7 @@ export default function Post({ post, morePosts, preview }: Props) {
               />
               <PostBody content={post.content} />
               {post.contact && (<ContactMe intro= {post.contact}/>)}
-              <div className='row items-center justify-center w-full'>
+              <div className='row flex items-center justify-center w-full'>
               <Link
               href="/"
               className="mt-20 mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-4 lg:mb-0 dark:bg-white dark:text-black dark:border-black dark:hover:bg-zinc-400 "

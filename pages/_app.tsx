@@ -3,6 +3,7 @@ import "../styles/index.css";
 import { OpenFormProvider } from "../contexts/contact-form-context";
 import { Analytics } from '@vercel/analytics/react';
 import { ThemeProvider } from "next-themes";
+import ThemeButton from "../components/ThemeButton";
 
 /**
  * By wrapping the app Component in an OpenFormProvider, the form
@@ -13,6 +14,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
     <ThemeProvider attribute="class">
     <OpenFormProvider> 
       <>
+      <ThemeButton />
       <Component {...pageProps} />
       <Analytics />
       </>

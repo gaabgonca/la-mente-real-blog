@@ -17,4 +17,7 @@
     @apply bg-zinc-800;
 }
   
+.MuiFab-root {
+    position: fixed !important;
+}
   

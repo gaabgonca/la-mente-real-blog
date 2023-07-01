@@ -1,3 +1,5 @@
+'use client'
+
 import React from 'react'
 import { useTheme } from "next-themes"
 import Fab from '@mui/material/Fab'
@@ -12,7 +14,7 @@ const ThemeButton = () => {
     return (
         
         <Fab 
-        className='fixed top-4 right-4'
+        className='fixed bottom-4 right-4 md:top-4 dark:bg-zinc-800'
         color="inherit" aria-label="add" onClick={() => theme == "dark"? setTheme('light'): setTheme("dark")}>
         {theme === 'dark' ? <Brightness7Icon /> : <Brightness4Icon />}
       </Fab>
