@@ -6,4 +6,15 @@
 .markdown-container li {
     @apply text-2xl ml-4 !important; 
 }
+
+.markdown blockquote {
+    @apply bg-gray-100 dark:bg-zinc-800;
+    @apply border rounded-xl;
+    @apply px-4;
+}
+
+:global(.dark) blockquote {
+    @apply bg-zinc-800;
+}
+  
   

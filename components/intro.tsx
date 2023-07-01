@@ -1,4 +1,5 @@
 import { FULL_NAME } from '../lib/constants'
+import ThemeButton from './ThemeButton'
 
 const Intro = () => {
   return (
@@ -9,6 +10,7 @@ const Intro = () => {
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         Blog del especialista en salud mental&nbsp;<br className='md:hidden'/><strong>{FULL_NAME}</strong>
       </h4>
+        <ThemeButton/>
     </section>
   )
 }

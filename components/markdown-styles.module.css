@@ -24,9 +24,13 @@
 }
 
 .markdown blockquote {
-  @apply bg-gray-100;
+  @apply bg-gray-100 dark:bg-zinc-800;
   @apply border rounded-xl;
   @apply px-4;
+}
+
+:global(.dark) .markdown blockquote {
+  @apply bg-zinc-800;
 }
 
 

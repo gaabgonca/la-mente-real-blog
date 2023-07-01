@@ -36,7 +36,7 @@ const MoreStories = ({ posts }: Props) => {
       <a
       role="button"
       onClick={handleClick}
-              className="bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-4 lg:mb-0"
+              className="bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-4 lg:mb-0 dark:bg-white dark:text-black dark:border-black dark:hover:bg-zinc-400"
             >
               Mostrar más publicaciones
             </a>
