@@ -14,7 +14,7 @@ const Footer = () => {
             {FULL_NAME +", MD"}
           </h3>
           <h2 className='text-xl lg:text-[1.25rem] tracking-tighter leading-tight text-center lg:text-left mb-4 lg:mb-0 lg:pr-4 '>
-            Psiquiatra y psicoterapeuta con más de 20 años de experiencia clínica
+            Psiquiatra y psicoterapeuta con más de 25 años de experiencia clínica
           </h2>
           </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2 lg:justify-end">
