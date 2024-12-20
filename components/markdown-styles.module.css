@@ -1,5 +1,5 @@
 .markdown {
-  @apply text-lg leading-relaxed;
+  @apply text-base leading-relaxed text-justify;
 }
 
 .markdown p,
@@ -7,7 +7,7 @@
 .markdwon li,
 .markdown blockquote {
   @apply my-6;
-  @apply text-2xl
+  @apply text-lg;
 }
 
 .markdown a {

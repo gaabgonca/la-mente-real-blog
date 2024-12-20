@@ -35,7 +35,7 @@ export default function Post({ post, morePosts, preview }: Props) {
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article className="mb-32">
+            <article className="mb-32 md:px-72">
               <Head>
                 <title>
                   {post.title}
