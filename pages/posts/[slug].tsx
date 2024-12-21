@@ -27,6 +27,8 @@ export default function Post({ post, preview }: Props) {
   const router = useRouter();
 
   const absoluteOgImageUrl = `${BASE_URL}${post.ogImage.url}`;
+  
+  console.log(post.excerpt)
 
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />;
@@ -38,7 +40,11 @@ export default function Post({ post, preview }: Props) {
         <meta property="og:image" content={absoluteOgImageUrl} />
         <meta property="og:title" content={post.title} />
         <meta property="og:url" content={POSTS_URL + post.slug} />
-        <meta property="og:description" content={post.excerpt} />
+        <meta property="og:description" content={
+            post.excerpt
+              ? post.excerpt
+              : 'Blog del especialista en salud mental Alex González Grau'
+          }/>
       </Head>
       <Container>
         <Header />
@@ -88,6 +94,7 @@ export async function getStaticProps({ params }: Params) {
     "ogImage",
     "coverImage",
     "contact",
+    "excerpt"
   ]);
   const content = await markdownToHtml(post.content || "");
 
