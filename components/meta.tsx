@@ -11,7 +11,7 @@ import createOgImage from "../lib/createOgImage";
 const Meta = () => {
   const ogImage = createOgImage();
   return (
-    <Head>
+    <Head> 
       <link
         rel="shortcut icon"
         type="image/svg+xml"
