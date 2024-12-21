@@ -21,7 +21,7 @@ export const ShareButtonsRow = ({ postUrl }: SharebUttonsRowProps) => {
   return (
     <div className="">
       <p>Comparte este post: </p>
-      <div className="flex flex-row items-center mt-4">
+      <div className="flex flex-row items-center mt-4 space-x-2">
         <FacebookShareButton url={postUrl} quote={QUOTE}>
           <FacebookIcon size={32} round />
         </FacebookShareButton>
