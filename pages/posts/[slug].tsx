@@ -60,7 +60,7 @@ export default function Post({ post, morePosts, preview }: Props)  {
               />
               <PostBody content={post.content} />
               {post.contact && (<ContactMe intro= {post.contact}/>)}
-              <ShareButtonsRow postUrl={BASE_URL + post.slug} />
+              <ShareButtonsRow postUrl={POSTS_URL + post.slug} />
               <div className='row flex items-center justify-center w-full'>
               <Link
               href="/"
