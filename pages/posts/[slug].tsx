@@ -27,8 +27,8 @@ export default function Post({ post, preview }: Props) {
   const router = useRouter();
 
   const absoluteOgImageUrl = `${BASE_URL}${post.ogImage.url}`;
-  
-  console.log(post.excerpt)
+
+  console.log(post.excerpt);
 
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />;
@@ -40,11 +40,26 @@ export default function Post({ post, preview }: Props) {
         <meta property="og:image" content={absoluteOgImageUrl} />
         <meta property="og:title" content={post.title} />
         <meta property="og:url" content={POSTS_URL + post.slug} />
-        <meta property="og:description" content={
+        <meta
+          property="og:description"
+          content={
             post.excerpt
               ? post.excerpt
-              : 'Blog del especialista en salud mental Alex González Grau'
-          }/>
+              : "Blog del especialista en salud mental Alex González Grau"
+          }
+        />
+        {/* Twitter Card Tags */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={post.title} />
+        <meta
+          name="twitter:description"
+          content={
+            post.excerpt
+              ? post.excerpt
+              : "Blog del especialista en salud mental Alex González Grau"
+          }
+        />
+        <meta name="twitter:image" content={absoluteOgImageUrl} />
       </Head>
       <Container>
         <Header />
@@ -94,7 +109,7 @@ export async function getStaticProps({ params }: Params) {
     "ogImage",
     "coverImage",
     "contact",
-    "excerpt"
+    "excerpt",
   ]);
   const content = await markdownToHtml(post.content || "");
 
