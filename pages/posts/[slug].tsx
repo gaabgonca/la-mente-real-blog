@@ -13,8 +13,8 @@ import { CMS_NAME, PRODUCTION_URL } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 import type PostType from '../../interfaces/post'
 import ContactMe from '../../components/contact-me'
-import ThemeButton from '../../components/ThemeButton'
 import Link from 'next/link'
+import { ShareButtonsRow } from '../../components/ShareButtonsRow'
 
 type Props = {
   post: PostType
@@ -22,8 +22,15 @@ type Props = {
   preview?: boolean
 }
 
-export default function Post({ post, morePosts, preview }: Props) {
+const BASE_URL = "https://lamentereal.com/"
+const POSTS_URL = "https://www.lamentereal.com/posts/"
+
+export default function Post({ post, morePosts, preview }: Props)  {
+
   const router = useRouter()
+
+  const absoluteOgImageUrl = `${BASE_URL}${post.ogImage.url}`;
+
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
   }
@@ -40,10 +47,10 @@ export default function Post({ post, morePosts, preview }: Props) {
                 <title>
                   {post.title}
                 </title>
-                <meta property="og:image" content={post.ogImage.url} />
+                <meta property="og:image" content={absoluteOgImageUrl} />
                 <meta property="og:title" content={post.title} />
                 <meta property="og:description" content={post.excerpt} />
-                <meta property="og:url" content={PRODUCTION_URL + "/" + post.slug} />
+                <meta property="og:url" content={POSTS_URL + post.slug} />
                 
               </Head>
               <PostHeader
@@ -54,6 +61,7 @@ export default function Post({ post, morePosts, preview }: Props) {
               />
               <PostBody content={post.content} />
               {post.contact && (<ContactMe intro= {post.contact}/>)}
+              <ShareButtonsRow postUrl={BASE_URL + post.slug} />
               <div className='row flex items-center justify-center w-full'>
               <Link
               href="/"
