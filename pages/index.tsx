@@ -6,8 +6,8 @@ import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import { BLOG_TITLE, OG_DESCRIPTION, PRODUCTION_URL } from '../lib/constants'
-import createOgImage from '../lib/createOgImage'
 import Post from '../interfaces/post'
+import Meta from '../components/meta'
 
 
 type Props = {
@@ -19,6 +19,7 @@ export default function Index({ allPosts }: Props) {
   const morePosts = allPosts.slice(1)
   return (
     <>
+      <Meta />
       <Layout>
         <Head>
           <title>{BLOG_TITLE}</title>
