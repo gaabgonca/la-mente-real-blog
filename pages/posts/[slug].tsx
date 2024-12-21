@@ -50,6 +50,7 @@ export default function Post({ post, morePosts, preview }: Props)  {
                 <meta property="og:image" content={absoluteOgImageUrl} />
                 <meta property="og:title" content={post.title} />
                 <meta property="og:url" content={POSTS_URL + post.slug} />
+                <meta property="og:description" content={post.excerpt} />
                 
               </Head>
               <PostHeader
